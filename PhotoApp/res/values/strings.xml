@@ -3,5 +3,9 @@
 
     <string name="app_name">PhotoApp</string>
     <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="action_websearch">Web search</string>
+    <string name="app_not_available">no disponible</string>
 
 </resources>
